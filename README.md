@@ -1,4 +1,4 @@
-# Sicepat Hackathon x AWS Temporary Account Login
+# Sicepat Hackathon x AWS - Petunjuk Login Temporary Account AWS
 
 
 ### Berikut adalah beberapa ketentuan dalam penggunakan akun sementara ini:
