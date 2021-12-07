@@ -6,6 +6,8 @@
 2. 1 Akun hanya berlaku untuk 1 tim
 3. Akun hanya berlaku selama **72 jam / 3 Hari** (Kami sarankan untuk menggunakan public git repository untuk menyimpan *source code* anda)
 
+<hr>
+
 ### Berikut merupakan petunjuk untuk login ke akun sandbox AWS
 1. Klik [link ini](https://dashboard.eventengine.run/login) akan terbuka tampilan seperti berikut
 <img src="img/1.png" alt="Event Engine Login"/>
