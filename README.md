@@ -1,5 +1,6 @@
 # Sicepat Hackathon x AWS - Petunjuk Login Temporary Account AWS
 
+<hr>
 
 ### Berikut adalah beberapa ketentuan dalam penggunakan akun sementara ini:
 1. Region yang dapat digunakan hanyalah dalam region `ap-southeast-1` (Singapore)
@@ -8,7 +9,7 @@
 
 <hr>
 
-### Berikut merupakan petunjuk untuk login ke akun sandbox AWS
+### Berikut merupakan petunjuk untuk login ke akun sementara AWS
 1. Klik [link ini](https://dashboard.eventengine.run/login) akan terbuka tampilan seperti berikut
 <img src="img/1.png" alt="Event Engine Login"/>
 
